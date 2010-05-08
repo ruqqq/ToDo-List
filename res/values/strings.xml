@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, main!</string>
+    <string name="app_name">ToDo List</string>
+    <string name="new_item">Item Name</string>
+    <string name="new_item_btn">Add</string>
+    <string name="edit_item_btn">Save</string>
+    
+    <string name="sort_all">Sort All</string>
+    <string name="remove_all">Remove All</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="remove_item">Remove Item</string>
+</resources>
